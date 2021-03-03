@@ -1,0 +1,4 @@
+#script begins
+hi="cool water"
+print("hi")
+#script ends
